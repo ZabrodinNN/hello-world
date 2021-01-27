@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+My first repository
 
 Hi!
 This is Nikolay.
